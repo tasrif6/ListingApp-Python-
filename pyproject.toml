@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "dailydo_todo_app", from = "src"}]
+packages = [{include = "dailydo_todo_app"}]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
